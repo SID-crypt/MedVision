@@ -1,0 +1,12 @@
+SOURCE: NCBI Bookshelf - A Systematic Approach to Chest Radiographic Analysis
+URL: https://www.ncbi.nlm.nih.gov/books/NBK553874/
+
+An infiltrate is a term used to describe an abnormal area of
+increased opacity on a chest radiograph. Air-space opacities may
+appear when the normal air-filled spaces in the lungs contain
+material such as fluid or inflammatory cells.
+
+Infiltrates and air-space opacities can have different causes.
+They must be interpreted alongside the patient's clinical
+information and other imaging findings. The term does not identify
+one specific disease by itself.

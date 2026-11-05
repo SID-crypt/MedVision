@@ -1,0 +1,38 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Large trained model files
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Generated FAISS index and metadata
+*.index
+chunks_metadata.pkl
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/

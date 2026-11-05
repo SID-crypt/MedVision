@@ -1,0 +1,111 @@
+SOURCE: MedlinePlus
+TITLE: Chest Xray
+URL: https://medlineplus.gov/ency/article/003804.htm
+
+Chest x-ray
+To use the sharing features on this page, please enable JavaScript.
+A chest x-ray is an
+x-ray
+of the chest, lungs, heart, large arteries, ribs, and diaphragm.
+How the Test is Performed
+You stand in front of the x-ray machine. You will be told to take a breath in and hold it when the x-ray is taken.
+Two images are usually taken. You will first need to stand facing the machine, and then sideways.
+How to Prepare for the Test
+Tell your health care provider if you are pregnant. Chest x-rays are generally avoided during pregnancy, and special precautions are taken if they are needed.
+How the Test will Feel
+There is no discomfort. The imaging plate may feel cold.
+Why the Test is Performed
+Your provider may order a chest x-ray if you have any of the following symptoms:
+A persistent cough
+Chest pain
+from a chest injury (with a possible rib fracture or lung complication) or from heart problems
+Coughing up blood
+Difficulty breathing
+Fever
+It may also be done if you have signs of
+tuberculosis
+,
+lung cancer
+, or other chest or
+lung diseases
+.
+A serial chest x-ray is one that is repeated. It may be done to monitor changes found on a past chest x-ray.
+What Abnormal Results Mean
+Abnormal results may be due to many things, including:
+In the lungs:
+Collapsed lung
+Collection of fluid around the lung
+Lung tumor (noncancerous or cancerous)
+Malformation of the blood vessels
+Pneumonia
+Scarring of lung tissue
+Tuberculosis
+Atelectasis
+In the heart:
+Problems with the size, position or shape of the heart
+Problems with the position, size and shape of the large arteries
+Evidence of heart failure
+In the bones:
+Fractures
+or other problems of the ribs and spine
+Osteoporosis
+In the mediastinum (middle part of the chest):
+Enlargement, which might be related to infection or tumor
+Risks
+There is low radiation exposure. X-rays are monitored and regulated to provide the minimum amount of radiation exposure needed to produce the image. Most experts feel that the benefits outweigh the risks. Pregnant women and children are more sensitive to the risks of x-rays.
+Alternative Names
+Chest radiography; Serial chest x-ray; X-ray - chest
+Images
+Aortic rupture - chest x-ray
+Lung cancer - frontal chest x-ray
+Adenocarcinoma - chest x-ray
+Coal worker's lungs - chest x-ray
+Coccidioidomycosis - chest x-ray
+Coal workers pneumoconiosis - stage II
+Coal workers pneumoconiosis - stage II
+Coal workers pneumoconiosis, complicated
+Coal workers pneumoconiosis, complicated
+Tuberculosis, advanced - chest x-rays
+Pulmonary nodule - front view chest x-ray
+Sarcoid, stage II - chest x-ray
+Sarcoid, stage IV - chest x-ray
+Pulmonary mass - side view chest x-ray
+Bronchial cancer - chest x-ray
+Lung nodule, right middle lobe - chest x-ray
+Lung mass, right upper lung - chest x-ray
+Lung nodule - front view chest x-ray
+References
+Felker GM, Teerlink JR. Diagnosis and management of acute heart failure. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds.
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine
+. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 49.
+Jokerst CE, Gotway MB. Thoracic radiology: noninvasive diagnostic imaging. In: Broaddus VC, Ernst JD, King TE, et al, eds.
+Murray and Nadel's Textbook of Respiratory Medicine
+. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 20.
+Nair A, Barnett JL, Semple TR. Current status of thoracic imaging. In: Adam A, Dixon AK, Gillard JH, Schaefer-Prokop CM, eds.
+Grainger & Allison's Diagnostic Radiology
+. 7th ed. Philadelphia, PA: Elsevier; 2021:chap 1.
+Review Date 8/19/2024
+Updated by: Allen J. Blaivas, DO, Division of Pulmonary, Critical Care, and Sleep Medicine, VA New Jersey Health Care System, Clinical Assistant Professor, Rutgers New Jersey Medical School, East Orange, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+Learn how to cite this page
+Related MedlinePlus Health Topics
+Acute Bronchitis
+Bronchial Disorders
+Chest Injuries and Disorders
+Chronic Bronchitis
+Congenital Heart Defects
+Cough
+Emphysema
+Heart Failure
+Heart Valve Diseases
+Interstitial Lung Diseases
+Lung Cancer
+Lung Diseases
+Pleural Disorders
+Pneumococcal Infections
+Pneumonia
+Pulmonary Embolism
+Pulmonary Fibrosis
+Sarcoidosis
+Tuberculosis
+Valley Fever
+X-Rays

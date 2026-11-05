@@ -1,0 +1,12 @@
+SOURCE: RadiologyInfo - Lung Nodules
+URL: https://www.radiologyinfo.org/info/lung-nodules
+
+A pulmonary nodule is a small growth in the lung, generally smaller
+than 3 cm. Nodules may be detected incidentally on chest X-rays or
+CT scans. Many are benign and may be associated with infections,
+scarring, or lymph nodes. Some can be malignant.
+
+Chest CT can help evaluate a nodule's size, shape, location, and
+other characteristics. Assessment depends on imaging features,
+changes over time, and individual risk factors. A model prediction
+alone cannot determine whether a nodule is benign or malignant.

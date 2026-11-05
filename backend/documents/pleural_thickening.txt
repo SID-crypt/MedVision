@@ -1,0 +1,11 @@
+SOURCE: NCBI Bookshelf - A Systematic Approach to Chest Radiographic Analysis
+URL: https://www.ncbi.nlm.nih.gov/books/NBK553874/
+
+Pleural thickening refers to thickening of the pleural surfaces,
+the thin membranes surrounding the lungs. It is one type of
+pleural abnormality visible on chest imaging.
+
+Pleural abnormalities may include thickening, plaques,
+calcification, air in the pleural space, or fluid in the pleural
+space. Imaging findings need to be interpreted in context by
+a qualified healthcare professional.
